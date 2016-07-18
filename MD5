@@ -1,0 +1,15 @@
+16c4cc749787c46245abeb271d9e5ddb *DESCRIPTION
+ef09a6d9164b3c1c3c5bfb51eee9d6ff *NAMESPACE
+3c3e9f493bd2c648c707d7ac8f66059a *R/TicTacToe.R
+31c262c62d445e9afe7bd162c2a098ad *R/TicTacToe_Functions.R
+49fc8210adf38b3a82bbb3f26d413cfe *R/get_surround.R
+9ff9ab6118f61e030e76a117b2374410 *R/xy2index.R
+7a9c057d0d32e1e7bc9385d1afa6237e *man/UltimateTicTacToe.Rd
+15d7c0d148e26942de37c54917bce7af *man/detect_seq.Rd
+37cd8412485cc284f8d2f44ccb8bc790 *man/get_cols.Rd
+b080f3df329ecc04fc7c54bb7c6ca9a6 *man/get_diags.Rd
+c16796066f746519c1f4ea2e8e041fd4 *man/get_rows.Rd
+60ba5882beb704788068594bc23d9db0 *man/get_surround.Rd
+2c33aaf332eeff0c37cfc35c4494a632 *man/index2xy.Rd
+95d423de6604b37df9144cdac3c4f7c3 *man/is_palindrome.Rd
+7174099f158045997c1b6c5fb6f70010 *man/xy2index.Rd
